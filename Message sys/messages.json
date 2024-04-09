@@ -1,0 +1,17 @@
+[
+    {
+        "sendername": "prinsa",
+        "receivername": "rm",
+        "message": "hello rm"
+    },
+    {
+        "sendername": "rm",
+        "receivername": "prinsa",
+        "message": "im good tho prinsa"
+    },
+    {
+        "sendername": "rm",
+        "receivername": "bob",
+        "message": "yo bob what's up dude"
+    }
+]
